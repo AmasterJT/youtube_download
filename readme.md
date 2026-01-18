@@ -1,8 +1,8 @@
-# 🎬 YouTube HD Downloader Pro
+# 🎬 YouTube HD Downloader
 
 ![Demo](demo.gif)
 
-**YouTube HD Downloader Pro** es un descargador profesional de vídeos de YouTube en **HD, Full HD, 4K y audio MP3**, desarrollado en **Python** y basado en `yt-dlp`.  
+**YouTube HD Downloader** es un descargador profesional de vídeos de YouTube en **HD, Full HD, 4K y audio MP3**, desarrollado en **Python** y basado en `yt-dlp`.  
 Incluye una **CLI moderna**, salida con colores, barras de progreso, previsualización del contenido y soporte para descargas en lote.
 
 ---
@@ -189,17 +189,3 @@ $ python yt_pro.py descargar "https://youtube.com/watch?v=..."
   - YouTube  
   - YouTube Shorts  
   - Listas de reproducción (configurable con `--noplaylist`)
-
----
-
-## ⚠️ Aviso legal
-
-Este proyecto es solo para **uso educativo y personal**.  
-Respeta siempre los **términos de servicio** de YouTube y la legislación vigente en tu país.
-
----
-
-## ⭐ Contribuciones
-
-Pull requests, ideas y mejoras son bienvenidas.  
-Si te resulta útil, ¡no olvides dejar una ⭐!
