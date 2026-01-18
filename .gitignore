@@ -1,0 +1,21 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Videos descargados
+videos/
+**/videos/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+*.log
+
+# IDE
+.vscode/
+.idea/
